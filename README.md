@@ -1,1 +1,1 @@
-# greeting.github.io
+# greeting
